@@ -2,6 +2,6 @@
 
 Hallo, hallo
 
-![https://i.ibb.co/QdrNd94/UPSConcept-WRelay-Concept-drawio-5.png](https://i.ibb.co/QdrNd94/UPSConcept-WRelay-Concept-drawio-5.png)
+![https://i.ibb.co/6vQ8k3Z/UPSConcept-WRelay-Concept-drawio-6.png](https://i.ibb.co/6vQ8k3Z/UPSConcept-WRelay-Concept-drawio-6.png)
 
-![https://i.ibb.co/HdH33Ym/UPSConcept-WRelay-MCU-Flow-drawio-8.png](https://i.ibb.co/HdH33Ym/UPSConcept-WRelay-MCU-Flow-drawio-8.png)
+![https://i.ibb.co/R6D2yJC/UPSConcept-WRelay-MCU-Flow-drawio-9.png](https://i.ibb.co/R6D2yJC/UPSConcept-WRelay-MCU-Flow-drawio-9.png)
