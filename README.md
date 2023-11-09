@@ -2,4 +2,4 @@
 
 Hallo, hallo
 
-![UPSConcept-WRelay-Concept-drawio-1.png](https://i.ibb.co/bXkt7t5/UPSConcept-WRelay-Concept-drawio-1.png)
+![https://i.ibb.co/sm6qmhV/UPSConcept-WRelay-Concept-drawio-2.png](https://i.ibb.co/sm6qmhV/UPSConcept-WRelay-Concept-drawio-2.png)
